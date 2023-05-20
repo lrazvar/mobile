@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mobile3</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Войти</string>
+    <string name="phone_code_placeholder">+7</string>
+    <string name="phone_placeholder">12345678</string>
+    <string name="name">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirmation">Подтвердите пароль</string>
+    <string name="continue_string">Продолжить</string>
+    <string name="forgotPassword">Забыли пароль?</string>
+    <string name="keep_me_logged_in">Запомнить меня</string>
+</resources>
